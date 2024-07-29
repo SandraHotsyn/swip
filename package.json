@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/P09-PortfolioFSDev/",
+    "build": "vite build --base=/swip/",
     "preview": "vite preview"
   },
   "devDependencies": {
